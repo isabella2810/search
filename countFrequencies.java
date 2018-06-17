@@ -1,4 +1,7 @@
-/* Problem: */
+/* Problem: count frequencies of all elements in an array of numbers
+   Solution: use hash tables; T(n) = O(n)
+   This is the Java version of countFrequencie.cpp
+*/
 
 import java.util.*;
 
